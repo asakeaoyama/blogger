@@ -10,4 +10,4 @@ jobs:
         url: "https://jenkins.sdpmlab.org/"
         user: "林緯愃"
         token: ${{secrets.TOKEN}}
-        job: "mytest"   
+        job: "mytest"
